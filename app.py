@@ -5,6 +5,8 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import pickle
 import numpy as np
+import seaborn as sns
+sns.set(style='whitegrid')
 
 # ---------------------
 # Page Setup
